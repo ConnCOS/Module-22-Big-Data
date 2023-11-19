@@ -1,7 +1,7 @@
 # Module-22-Big-Data
 This challenge requires using SparkSQL to determine key metric about home sales data. Once the data is developed, Spark will be used to create temporary views, partition data, cache and uncache a temporary table and verify that the table has been uncached.
 
-##Steps
+## Steps
 - Rename the Home_Sales_starter_code.ipynb file as Home_Sales.ipynb.
 - Import the necessary PySpark SQL functions for this assignment.
 - Read the home_sales_revised.csv data in the starter code into a Spark DataFrame.
@@ -24,5 +24,5 @@ This challenge requires using SparkSQL to determine key metric about home sales 
 - Download your Home_Sales.ipynb file and upload it into your "Home_Sales" GitHub repository. (Filed sent directly to GitHub 
   from CoLab).
 
-##Resources
+## Resources
 In cells where year_built was involved, CoLab would not recognize the code as employed from examples from in-class activities. A querty to Chat GBT suggested that (TO.DATE) had to be added before (year_built). That resovled those sections of code.
