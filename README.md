@@ -29,7 +29,7 @@ This challenge requires using SparkSQL to determine key metric about home sales 
     - 2022: $296,363.88
     - 2021 $301,819.44
     - 2020: $298,353.78
-    - 2019: $300,263.70
+    - 2019: $300,263.7
 
 -- The average price for a three-bedroom, three-bath home rounded to two decimal places is:
    - 2017: $292,676.79
@@ -44,7 +44,7 @@ This challenge requires using SparkSQL to determine key metric about home sales 
 -- The average price of a home for each year that has three bedrooms, three bathrooms, two floors, 
    and is greater than or equal to 2,000 square feet is:
  - 2017: $280,317.58
- - 2016: $293965.1|
+ - 2016: $293965.1
  - 2015: $297,609.97
  - 2014: $298,264.72
  - 2013: $303,676.79
