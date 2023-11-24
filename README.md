@@ -25,7 +25,7 @@ This challenge requires using SparkSQL to determine key metric about home sales 
   from CoLab).
 
 ## Results
--- The average price for a four-bedroom home by year , as shown in cell 22, is:
+-- The average price for a four-bedroom home by year:
     - 2022: $296,363.88
     - 2021 $301,819.44
     - 2020: $298,353.78
